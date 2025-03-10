@@ -761,6 +761,24 @@
     },
     "done": true
   },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-03-10 03:40:42 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-03-10 03:48:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_guard": {
+    "criteria": {
+      "coded_trigger": "2025-03-10 04:25:16 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_soul_black_smith": {
     "criteria": {
       "blacksmith": "2025-03-10 04:39:21 +0000"
@@ -778,24 +796,6 @@
       "has_sherd": "2025-03-10 04:45:49 +0000"
     },
     "done": false
-  },
-  "paraglider:pray_to_the_goddess": {
-    "criteria": {
-      "bargain": "2025-03-10 03:48:46 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_guard": {
-    "criteria": {
-      "coded_trigger": "2025-03-10 04:25:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/fast_travel": {
-    "criteria": {
-      "travelled": "2025-03-10 03:40:42 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
